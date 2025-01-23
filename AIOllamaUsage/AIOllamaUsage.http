@@ -1,0 +1,6 @@
+@AIOllamaUsage_HostAddress = http://localhost:5181
+
+GET {{AIOllamaUsage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
